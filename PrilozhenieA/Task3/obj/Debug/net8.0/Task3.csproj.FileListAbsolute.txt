@@ -1,0 +1,14 @@
+D:\Практика С#\Приложение А\PrilozhenieA\Task3\bin\Debug\net8.0\Task3.exe
+D:\Практика С#\Приложение А\PrilozhenieA\Task3\bin\Debug\net8.0\Task3.deps.json
+D:\Практика С#\Приложение А\PrilozhenieA\Task3\bin\Debug\net8.0\Task3.runtimeconfig.json
+D:\Практика С#\Приложение А\PrilozhenieA\Task3\bin\Debug\net8.0\Task3.dll
+D:\Практика С#\Приложение А\PrilozhenieA\Task3\bin\Debug\net8.0\Task3.pdb
+D:\Практика С#\Приложение А\PrilozhenieA\Task3\obj\Debug\net8.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Практика С#\Приложение А\PrilozhenieA\Task3\obj\Debug\net8.0\Task3.AssemblyInfoInputs.cache
+D:\Практика С#\Приложение А\PrilozhenieA\Task3\obj\Debug\net8.0\Task3.AssemblyInfo.cs
+D:\Практика С#\Приложение А\PrilozhenieA\Task3\obj\Debug\net8.0\Task3.csproj.CoreCompileInputs.cache
+D:\Практика С#\Приложение А\PrilozhenieA\Task3\obj\Debug\net8.0\Task3.dll
+D:\Практика С#\Приложение А\PrilozhenieA\Task3\obj\Debug\net8.0\refint\Task3.dll
+D:\Практика С#\Приложение А\PrilozhenieA\Task3\obj\Debug\net8.0\Task3.pdb
+D:\Практика С#\Приложение А\PrilozhenieA\Task3\obj\Debug\net8.0\Task3.genruntimeconfig.cache
+D:\Практика С#\Приложение А\PrilozhenieA\Task3\obj\Debug\net8.0\ref\Task3.dll

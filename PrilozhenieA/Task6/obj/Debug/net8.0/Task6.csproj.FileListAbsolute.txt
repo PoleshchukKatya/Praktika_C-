@@ -1,0 +1,14 @@
+D:\Практика С#\Приложение А\PrilozhenieA\Task6\bin\Debug\net8.0\Task6.exe
+D:\Практика С#\Приложение А\PrilozhenieA\Task6\bin\Debug\net8.0\Task6.deps.json
+D:\Практика С#\Приложение А\PrilozhenieA\Task6\bin\Debug\net8.0\Task6.runtimeconfig.json
+D:\Практика С#\Приложение А\PrilozhenieA\Task6\bin\Debug\net8.0\Task6.dll
+D:\Практика С#\Приложение А\PrilozhenieA\Task6\bin\Debug\net8.0\Task6.pdb
+D:\Практика С#\Приложение А\PrilozhenieA\Task6\obj\Debug\net8.0\Task6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Практика С#\Приложение А\PrilozhenieA\Task6\obj\Debug\net8.0\Task6.AssemblyInfoInputs.cache
+D:\Практика С#\Приложение А\PrilozhenieA\Task6\obj\Debug\net8.0\Task6.AssemblyInfo.cs
+D:\Практика С#\Приложение А\PrilozhenieA\Task6\obj\Debug\net8.0\Task6.csproj.CoreCompileInputs.cache
+D:\Практика С#\Приложение А\PrilozhenieA\Task6\obj\Debug\net8.0\Task6.dll
+D:\Практика С#\Приложение А\PrilozhenieA\Task6\obj\Debug\net8.0\refint\Task6.dll
+D:\Практика С#\Приложение А\PrilozhenieA\Task6\obj\Debug\net8.0\Task6.pdb
+D:\Практика С#\Приложение А\PrilozhenieA\Task6\obj\Debug\net8.0\Task6.genruntimeconfig.cache
+D:\Практика С#\Приложение А\PrilozhenieA\Task6\obj\Debug\net8.0\ref\Task6.dll

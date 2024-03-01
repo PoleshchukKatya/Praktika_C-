@@ -1,0 +1,14 @@
+D:\Практика С#\Приложение А\PrilozhenieA\Task1\bin\Debug\net8.0\Task1.exe
+D:\Практика С#\Приложение А\PrilozhenieA\Task1\bin\Debug\net8.0\Task1.deps.json
+D:\Практика С#\Приложение А\PrilozhenieA\Task1\bin\Debug\net8.0\Task1.runtimeconfig.json
+D:\Практика С#\Приложение А\PrilozhenieA\Task1\bin\Debug\net8.0\Task1.dll
+D:\Практика С#\Приложение А\PrilozhenieA\Task1\bin\Debug\net8.0\Task1.pdb
+D:\Практика С#\Приложение А\PrilozhenieA\Task1\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Практика С#\Приложение А\PrilozhenieA\Task1\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+D:\Практика С#\Приложение А\PrilozhenieA\Task1\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+D:\Практика С#\Приложение А\PrilozhenieA\Task1\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
+D:\Практика С#\Приложение А\PrilozhenieA\Task1\obj\Debug\net8.0\Task1.dll
+D:\Практика С#\Приложение А\PrilozhenieA\Task1\obj\Debug\net8.0\refint\Task1.dll
+D:\Практика С#\Приложение А\PrilozhenieA\Task1\obj\Debug\net8.0\Task1.pdb
+D:\Практика С#\Приложение А\PrilozhenieA\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
+D:\Практика С#\Приложение А\PrilozhenieA\Task1\obj\Debug\net8.0\ref\Task1.dll
