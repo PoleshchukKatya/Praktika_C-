@@ -1,0 +1,15 @@
+D:\Практика С#\Приложение А\PrilozhenieA\Task1.59\bin\Debug\net8.0\Task1.59.exe
+D:\Практика С#\Приложение А\PrilozhenieA\Task1.59\bin\Debug\net8.0\Task1.59.deps.json
+D:\Практика С#\Приложение А\PrilozhenieA\Task1.59\bin\Debug\net8.0\Task1.59.runtimeconfig.json
+D:\Практика С#\Приложение А\PrilozhenieA\Task1.59\bin\Debug\net8.0\Task1.59.dll
+D:\Практика С#\Приложение А\PrilozhenieA\Task1.59\bin\Debug\net8.0\Task1.59.pdb
+D:\Практика С#\Приложение А\PrilozhenieA\Task1.59\obj\Debug\net8.0\Task1.59.GeneratedMSBuildEditorConfig.editorconfig
+D:\Практика С#\Приложение А\PrilozhenieA\Task1.59\obj\Debug\net8.0\Task1.59.AssemblyInfoInputs.cache
+D:\Практика С#\Приложение А\PrilozhenieA\Task1.59\obj\Debug\net8.0\Task1.59.AssemblyInfo.cs
+D:\Практика С#\Приложение А\PrilozhenieA\Task1.59\obj\Debug\net8.0\Task1.59.csproj.CoreCompileInputs.cache
+D:\Практика С#\Приложение А\PrilozhenieA\Task1.59\obj\Debug\net8.0\Task1.59.sourcelink.json
+D:\Практика С#\Приложение А\PrilozhenieA\Task1.59\obj\Debug\net8.0\Task1.59.dll
+D:\Практика С#\Приложение А\PrilozhenieA\Task1.59\obj\Debug\net8.0\refint\Task1.59.dll
+D:\Практика С#\Приложение А\PrilozhenieA\Task1.59\obj\Debug\net8.0\Task1.59.pdb
+D:\Практика С#\Приложение А\PrilozhenieA\Task1.59\obj\Debug\net8.0\Task1.59.genruntimeconfig.cache
+D:\Практика С#\Приложение А\PrilozhenieA\Task1.59\obj\Debug\net8.0\ref\Task1.59.dll
